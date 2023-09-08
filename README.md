@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Marcos Brito
 
-<!--
-**marcosbrito1/marcosbrito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems analyst and developer, passionate about backend development and project analysis. I like to learn new things, and I also really like to pass on my knowledge to other people.
 
-Here are some ideas to get you started:
+- 🔭 I've been working with software development for over 3 years.
+- 😄 Pronouns: he/him
+- 💬 I speak Portuguese and a little English.
+- 💜 I am passionate about technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Coding Activity
+
+<div>
+  <a href="https://github.com/marcosbrito1">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbrito1&layout=compact&theme=algolia" />
+<div>
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,js,php,html,css,postgres,mysql,sqlite,mongodb,docker,git,github,gitlab)](https://skillicons.dev)
+
+
