@@ -2,7 +2,7 @@
 
 I'm a systems analyst and developer, passionate about backend development and project analysis. I like to learn new things, and I also really like to pass on my knowledge to other people.
 
-- 🔭 I've been working with software development for over 4 years.
+- 🔭 I've been working with software development for over 5 years.
 - 😄 Pronouns: he/him
 - 💬 I speak Portuguese and a little English.
 - 💜 I am passionate about technology.
